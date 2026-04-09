@@ -8,6 +8,6 @@ And, i'm currently learning MERN Stack
 Project 01 => #underprocess
 
 How to find me:
-email: mohammedsafran6ix@gmail.com
-github: https://github.com/safran6ix
-YouTube: https://youtube.com/codify6ix
+   1. email: mohammedsafran6ix@gmail.com
+   2. github: https://github.com/safran6ix
+   3. YouTube: https://youtube.com/codify6ix
