@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, My name is Safran.
+i am a student who enjoys learning new technologies and sharing my knowledge with others.
 
-<!--
-**safran6ix/safran6ix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Started with Java,
+project 01 => #underprocess
 
-Here are some ideas to get you started:
+And, i'm currently learning MERN Stack
+Project 01 => #underprocess
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How to find me:
+email: mohammedsafran6ix@gmail.com
+github: https://github.com/safran6ix
+YouTube: https://youtube.com/codify6ix
