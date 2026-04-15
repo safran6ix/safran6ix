@@ -1,4 +1,5 @@
-Hi, My name is Safran.
+*Hi, My name is Safran.*
+
 i am a student who enjoys learning new technologies and sharing my knowledge with others.
 
 Started with Java,
