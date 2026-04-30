@@ -8,7 +8,7 @@ Started with Java,
 And, i'm currently learning MERN Stack
 
 And I've worked on some personal pet projects:
- - Project => #underprocess
+ - Project 01 => https://item-manager-skgn.vercel.app/
 
 How to find me:
    1. email: mohammedsafran6ix@gmail.com
