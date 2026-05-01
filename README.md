@@ -1,4 +1,4 @@
-*Hi, My name is Safran.*
+*𒆜 Hi, i am Safran.*
 
 i am a student who enjoys learning new technologies and sharing my knowledge with others.
 
@@ -14,3 +14,4 @@ How to find me:
    1. email: mohammedsafran6ix@gmail.com
    2. github: https://github.com/safran6ix
    3. YouTube: https://youtube.com/codify6ix
+   4. portfolio site: https://prof-portfolio-mu.vercel.app/
