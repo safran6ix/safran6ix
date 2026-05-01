@@ -1,14 +1,12 @@
-*𒆜 Hi, i am Safran.*
+**𒆜 Hi, i am Safran.**
 
 i am a student who enjoys learning new technologies and sharing my knowledge with others.
 
-Started with Java,
- - Project => #underprocess
-
-And, i'm currently learning MERN Stack
-
-And I've worked on some personal pet projects:
- - Project 01 => https://item-manager-skgn.vercel.app/
+*Past Works:* 
+  - Started with Java → https://github.com/safran6ix/Ticket-Verse
+  - Pet project → https://item-manager-skgn.vercel.app/
+  
+i'm currently learning **MERN Stack**
 
 How to find me:
    1. email: mohammedsafran6ix@gmail.com
